@@ -26,6 +26,6 @@ h1 {
   color: skyblue;
 }
 /*太字*/
-#parent p {
+#basic > p {
   font-weight: bold;
 }
